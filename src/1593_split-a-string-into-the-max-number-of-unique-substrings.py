@@ -11,7 +11,9 @@ class Solution:
         def slit_string(pos: int, sub_str: str, str_set: Set[str]) -> None:
             if pos == n:
                 nonlocal ans
-                ans = max(ans, len(str_set))
+                ans = max(
+                    ans, len(str_set)
+                )  # The leftovers could be concatenated to last substring, and make no difference to set length
                 return
 
             sub_str += s[pos]
