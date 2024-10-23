@@ -14,12 +14,16 @@ This repository contains my solutions to LeetCode problems. I will be solving at
 | 0017 | [Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [src/0017_letter-combinations-of-a-phone-number.py](src/0017_letter-combinations-of-a-phone-number.py) |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [src/0022_generate-parentheses.py](src/0022_generate-parentheses.py) |
 | 0033 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [src/0033_search-in-rotated-sorted-array.py](src/0033_search-in-rotated-sorted-array.py) |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [src/0036_valid-sudoku.py](src/0036_valid-sudoku.py) |
 | 0037 | [Sudoku_Solver](https://leetcode.com/problems/sudoku_solver) | [src/0037_sudoku_solver.py](src/0037_sudoku_solver.py) |
 | 0040 | [Combination Sum Ii](https://leetcode.com/problems/combination-sum-ii) | [src/0040_combination-sum-ii.py](src/0040_combination-sum-ii.py) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [src/0041_first-missing-positive.py](src/0041_first-missing-positive.py) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | [src/0046_permutations.py](src/0046_permutations.py) |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [src/0048_rotate-image.py](src/0048_rotate-image.py) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [src/0049_group-anagrams.py](src/0049_group-anagrams.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [src/0053_maximum-subarray.py](src/0053_maximum-subarray.py) |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [src/0054_spiral-matrix.py](src/0054_spiral-matrix.py) |
+| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [src/0073_set-matrix-zeroes.py](src/0073_set-matrix-zeroes.py) |
 | 0074 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [src/0074_search-a-2d-matrix.py](src/0074_search-a-2d-matrix.py) |
 | 0075 | [Sort_Colors](https://leetcode.com/problems/sort_colors) | [src/0075_sort_colors.py](src/0075_sort_colors.py) |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [src/0077_combinations.py](src/0077_combinations.py) |
